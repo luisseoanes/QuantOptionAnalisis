@@ -433,7 +433,3 @@ To report bugs or suggest improvements, please include:
 ---
 
 **Ready to analyze! Run `python main.py` to get started.**
-
----
-
-Do you want me to also prepare a **short executive summary in English** (like a one-page brief for non-technical readers), or just keep this full documentation?
